@@ -64,8 +64,7 @@ CO2-Emissions-Analysis/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/ramishi/CO2-Emissions-Analysis.git
-   cd CO2-Emissions-Analysis
+   git clone https://github.com/RamshiR/Project_Azure.git
    ```
 
 2. **Install Dependencies**  
