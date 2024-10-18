@@ -23,8 +23,7 @@ This project demonstrates my skills in:
 ---
 
 ## **Table of Contents**
-- [Technologies Used](#technologies-used)  
-- [Project Structure](#project-structure)  
+- [Technologies Used](#technologies-used)   
 - [How to Run the Project](#how-to-run-the-project)  
 - [Results & Visualizations](#results--visualizations)  
 - [Insights & Recommendations](#insights--recommendations)  
@@ -38,25 +37,6 @@ This project demonstrates my skills in:
 - **Seaborn & Matplotlib** – Data visualization  
 - **Pandas** – Data manipulation  
 
-
----
-
-## **Project Structure**  
-```
-CO2-Emissions-Analysis/
-│
-├── data/                              # Sample data files (optional)
-│   └── taxi_data.csv
-│
-├── notebooks/                         # Jupyter notebooks (if any)
-│   └── emissions_analysis.ipynb
-│
-├── src/                               # Python scripts for PySpark processing
-│   └── emissions_analysis.py
-│
-├── README.md                          # Project documentation
-└── LICENSE                            # License file
-```
 
 ---
 
