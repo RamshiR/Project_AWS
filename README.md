@@ -69,7 +69,11 @@ This project demonstrates my skills in:
 
 ---
 
+## EDA -Q3
+![Screenshot (323)](https://github.com/user-attachments/assets/e8f8830d-688d-4ec5-80a0-06c2d75b6fbf)
+
 ## **Results & Visualizations**
+
 
 Here is a sample visualization comparing daily CO₂ emissions based on passenger groups:  
 
